@@ -1,0 +1,14 @@
+ 忽略所有虚拟环境文件夹
+.venv/
+venv/
+env/
+
+# 忽略Python缓存文件和IDE设置
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+
+# 系统文件（可选但推荐）
+.DS_Store
+Thumbs.db
